@@ -219,3 +219,17 @@
 // If you have any questions about this project or the material we have covered, please post them in the community channels in slack so that your fellow developers can help you! If you're still having trouble, you can come to office hours for assistance from your instructor and TAs.
 
 // **Good Luck!**
+
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// Retrieve this info
+
+[Node-Spotify-API](https://www.npmjs.com/package/node-spotify-api)
+
+   * [Request](https://www.npmjs.com/package/request)
+
+     * You'll use Request to grab data from the [OMDB API](http://www.omdbapi.com) and the [Bands In Town API](http://www.artists.bandsintown.com/bandsintown-api)
+
+   * [Moment](https://www.npmjs.com/package/moment)
+
+   * [DotEnv](https://www.npmjs.com/package/dotenv)
+   
